@@ -1,4 +1,4 @@
-# 💬 Node Chat App
+# 💬 Chatter Box
 
 A **real-time full-stack chat application** built with **Node.js** (WebSocket server) and **React** (client UI). This app allows users to send and receive messages instantly, providing a smooth and interactive chat experience. Designed with a focus on simplicity, responsiveness, and clean architecture.
 
